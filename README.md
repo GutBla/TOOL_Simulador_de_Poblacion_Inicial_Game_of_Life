@@ -1,4 +1,7 @@
 # Simulador de Población Inicial - Juego de la Vida
+![HTML](https://img.shields.io/badge/Project-HTML-orange)
+![CSS](https://img.shields.io/badge/Project-CSS-blue)
+![JavaScript](https://img.shields.io/badge/Project-JavaScript-yellow)
 
 ## Descripción
 Este proyecto es un **Simulador de Población Inicial** para el **Juego de la Vida** de Conway. Está diseñado para permitir la generación y visualización de un tablero de celdas, donde el usuario puede configurar manualmente la población inicial o generar un código de población en formato de texto. El simulador también permite copiar el código generado para su uso en otras implementaciones o análisis.
